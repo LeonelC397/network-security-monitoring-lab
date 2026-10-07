@@ -53,6 +53,34 @@ This project strengthened my ability to:
 
 Screenshots and supporting documentation will be added to this repository to demonstrate the hands-on work completed.
 
+## Evidence Screenshots
+
+### Lab Environment Setup
+![Lab Setup](phaseB_lab_setup.png)
+
+### Wireshark Traffic Analysis
+![Wireshark Analysis](phaseC_wireshark_analysis.pnp.png)
+
+### Unusual Port 7007 Activity
+![Unusual Port 7007](PhaseC_unusual_port_7007.pnp.png)
+
+### Suspicious Payload Analysis
+![Suspicious Payload](phaseC_suspicious_payload.pnp.png)
+
+### TCP Reset Traffic
+![TCP Reset Analysis](phaseC_tcp_reset.pnp.png)
+
+### TryHackMe - Introductory Networking
+
+![Introductory Networking Completion](PhaseE_introductory_networking_completion.pnp.png)
+
+### TryHackMe - Networking Concepts
+
+![Networking Concepts Completion](phaseE_networking_concepts_completion.pnp.png)
+
+
+
+
 ## Disclaimer
 
 All activities were performed in authorized lab and training environments only.
